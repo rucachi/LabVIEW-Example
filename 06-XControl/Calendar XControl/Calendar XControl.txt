@@ -1,0 +1,46 @@
+<submission name here> v1.1.0.0
+
+Copyright © 2009, <Benoit Seguin>
+All rights reserved.
+
+Author:	 <Benoit Seguin>
+LAVA Name: <Benoit>
+Contact Info:	Contact via PM on lavag.org <Benoit Seguin>
+
+LabVIEW Versions:
+<2011>
+
+Dependencies:
+<No dependency>
+
+Description:
+<This calendar allow the selection of any date and output it as a Labview time stamp. if used as indicator, the input is a time stamp. This Xcontrol support English and French language. feel free to add more language as your need.>
+
+Installation and instructions:
+<use it as a regular Xcontrol. Dump the Xcontrol on the front pannel>
+
+Examples:
+<>
+
+Known Issues:
+<the start date is the start date of the regular time stamp>
+
+Acknowledgements:
+<Calendar Xcontrol inspired by the vi of Prabhakant Patil>
+
+Version History:
+v1.0.0: Initial release of the code.
+v1.1.0.0 Add language support: English, Francais, Espanol, Svenska, Portugese, Deutsche and Italiano
+
+License:
+<License example listed below, please replace with yours>
+Distributed under the Creative Commons Attribution 3.0 (http://creativecommons.org/about/licenses)
+See link for a full description of the license.
+
+Support:
+If you have any problems with this code or want to suggest features:
+please go to lavag.org and Navigate to LAVA > Resources > Code Repository (Certified) and
+search for the "<Calendar Xcontrol>" support page.
+
+Distribution:
+This code was downloaded from the LAVA Code Repository found at lavag.org
