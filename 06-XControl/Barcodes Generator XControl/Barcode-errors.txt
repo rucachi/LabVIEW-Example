@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Custom error codes for LV Barcodes
+</nicomment>
+<nierror code="6100">
+Message too long
+</nierror>
+<nierror code="6101">
+Numeric encoding is not supported
+</nierror>
+<nierror code="6102">
+Kanji encoding is not supported
+</nierror>
+<nierror code="6103">
+Invalid Version
+</nierror>
+<nierror code="6104">
+Version is not set
+</nierror>
+<nierror code="6105">
+Argument error: Invalid number of error correction code words
+</nierror>
+<nierror code="6106">
+Cannot calculate image size for automatically versioned QR code
+</nierror>
+<nierror code="6107">
+Unexpected error: Unexpected data in cell
+</nierror>
+<nierror code="6108">
+Unexpected error: Data size doesn't match amount copied
+</nierror>
+<nierror code="6109">
+Unexpected error: All items passed on adding data.
+</nierror>
+<nierror code="6110">
+Unexpected error: Bit mask does not match data size
+</nierror>
+<nierror code="6111">
+Unexpected error: Data array has not been fully written yet
+</nierror>
+<nierror code="6112">
+Cannot encode in given encoding.
+</nierror>
+<nierror code="6113">
+Pattern doesn't fit in data
+</nierror>
+</nidocument>
